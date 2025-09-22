@@ -1,5 +1,25 @@
 [
-  { "colors": ["#0a2463","#3e92cc","#2ca58d","#fffaff","#d8315b"] },
-  { "colors": ["#540d6e","#ee4266","#ffd23f","#3bceac","#0ead69"] },
-  { "colors": ["#2e4057","#66a182","#caffb9","#aef78e","#0b132b"] }
+  { "colors": ["#FFB3BA","#FFDFBA","#FFFFBA","#BAFFC9","#BAE1FF"] },
+  { "colors": ["#A8E6CF","#DCEDC1","#FFD3B6","#FFAAA5","#FF8B94"] },
+  { "colors": ["#F8B195","#F67280","#C06C84","#6C5B7B","#355C7D"] },
+  { "colors": ["#F6E6CB","#F5CBA7","#F0B27A","#E59866","#DC7633"] },
+  { "colors": ["#EAD6EE","#A0D2EB","#BEE7E8","#BFD8B8","#E7F0C3"] },
+  { "colors": ["#E2F0CB","#B5EAD7","#C7CEEA","#FFDAC1","#FFB7B2"] },
+  { "colors": ["#FFF1E6","#FFD7BA","#FFC4C4","#FFE1E1","#FFDFDF"] },
+  { "colors": ["#D5ECC2","#FFD6A5","#FFABE1","#A0C4FF","#BDB2FF"] },
+  { "colors": ["#FF9AA2","#FFB7B2","#FFDAC1","#E2F0CB","#B5EAD7"] },
+  { "colors": ["#D8E2DC","#FFE5D9","#FFCAD4","#F4ACB7","#9D8189"] },
+  { "colors": ["#FDE2E4","#FAD2E1","#E2ECE9","#BEE1E6","#F0F8EA"] },
+  { "colors": ["#F3C5C5","#C1DEAE","#ECEFA4","#CDC2AE","#FCF8E8"] },
+  { "colors": ["#FFFBE0","#E7E9BB","#C9D8B6","#B3C99C","#A4C3A2"] },
+  { "colors": ["#F2D7D5","#D5DBDB","#AEB6BF","#85929E","#5D6D7E"] },
+  { "colors": ["#F8EDEB","#E9E4E6","#D8E2DC","#ECE4DB","#FFDDE2"] },
+  { "colors": ["#E8E8E4","#D8E2DC","#ECE4DB","#FFDDE2","#FFCAD4"] },
+  { "colors": ["#FEEAFA","#F6DFEB","#E4D9FF","#D6E5FA","#CDE7BE"] },
+  { "colors": ["#FFF5E1","#FFE4E1","#FFD6E1","#E1F6F9","#E1FFE4"] },
+  { "colors": ["#EAD6CD","#FCE2DB","#FFCAD4","#FFE5E0","#F6DFEB"] },
+  { "colors": ["#C1F0F6","#C7E9B0","#D9F8C4","#FFDEB4","#FFB4B4"] },
+  { "colors": ["#FEE1E8","#FCDDF2","#F4E1FF","#DCD6F7","#C8C6FA"] },
+  { "colors": ["#FFDEE9","#F9E5EF","#FDE2E4","#FAD2E1","#E2ECE9"] },
+  { "colors": ["#F9E5F4","#FDE2E4","#FAD2E1","#E2ECE9","#BEE1E6"] }
 ]
